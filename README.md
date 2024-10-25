@@ -26,6 +26,6 @@
 
 To get started with "Manage," follow these steps:
 
-1. **Clone the Repository**:  
+1. **Visit Website**:  
    ```bash
-   git clone https://github.com/duzcoder/manage-landingPage.git
+   [git clone https://github.com/duzcoder/manage-landingPage.git](https://shorturl.at/3U3rV)
