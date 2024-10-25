@@ -26,5 +26,8 @@
 
 To get started with "Manage," follow these steps:
 
- **Visit Website**: https://shorturl.at/3U3rV
- **In case not working**: https://github.com/duzcoder/manage-landingPage.git 
+ **Visit Website**: 
+ https://shorturl.at/3U3rV
+ 
+ **In case not working**: 
+ https://github.com/duzcoder/manage-landingPage.git 
