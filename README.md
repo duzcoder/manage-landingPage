@@ -28,4 +28,4 @@ To get started with "Manage," follow these steps:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/manage-landingPage.git
+   git clone https://github.com/duzcoder/manage-landingPage.git
