@@ -24,7 +24,7 @@
 
 ## Getting Started
 
-To get started with "Manage," follow these steps:
+To check "Manage," follow these links:
 
  **Visit Website**: 
  https://shorturl.at/3U3rV
